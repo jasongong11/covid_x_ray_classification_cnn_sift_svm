@@ -9,7 +9,7 @@ In this project, we're going to use CNN and SIFT + SVM for COVID-19 classificati
 figure: all figures corresponding to the results which includes confusion matrix of CNN and ROC curve of SIFT-SVM.    
 code: code of CNN models and SIVT-SVM models.  
 - cnn: codes for CNN Model
-- sift-svm: codes for SIFT-SVM models and the plots for this model
+- sift_svm: codes for SIFT-SVM models and the plots for this model
 
 notebooks: Well-documented Report of STA208 Final Project.    
 data: the list of train set and test set
