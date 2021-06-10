@@ -1,5 +1,5 @@
 # STA 208 covid-19 x-ray classification with CNN and SIFT-SVM
-This final project is a classification model for Stat 208, Davis 2021 spring class. Instructor: James Sharpna. 
+This final project is a classification model for Stat 208, Davis 2021 spring class. Professor: Dr. James Sharpna. 
 
 
 In this project, we're going to use CNN and SIFT + SVM for COVID-19 classification based on medical X-Ray Images.
