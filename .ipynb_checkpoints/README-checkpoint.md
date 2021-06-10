@@ -15,14 +15,38 @@ notebooks: Well-documented Report of STA208 Final Project.
 data: the list of train set and test set
 
 ### data dir tree
-+-- test
-|   +-- positive
-|   +-- negative
-+-- train
-|   +-- positive
-|   +-- negative
-+-- test.txt
-+-- train.txt
+
+```
+data
+│   readme.md
+│   test.txt  
+│   train.txt  
+│
+└───test
+│   │
+│   └───positive
+│   │   │   image1.png
+│   │   │   image2.png
+│   │   │   ...
+│   │
+│   └───negative
+│       │   image1.png
+│       │   image2.png
+│       │   ...
+│
+└───train
+│   │
+│   └───positive
+│   │   │   image1.png
+│   │   │   image2.png
+│   │   │   ...
+│   │
+│   └───negative
+│       │   image1.png
+│       │   image2.png
+│       │   ...
+│
+```
 
 # Data source
 
